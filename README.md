@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
 <h3 align="center">Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.hiremotely.com/uploads/profiles/60832ebf4b75d.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-017&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-017" /> </p>
 
