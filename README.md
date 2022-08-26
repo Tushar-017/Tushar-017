@@ -1,5 +1,3 @@
-![MasterHead](https://www.animaapp.com/blog/wp-content/uploads/2021/07/1840x1142-4.gif)
-
 <h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hiremotely.com/uploads/profiles/60832ebf4b75d.jpg">
