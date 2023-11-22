@@ -3,13 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/rr_ajput" target="blank"><img src="https://img.shields.io/twitter/follow/rr_ajput?logo=twitter&style=for-the-badge" alt="rr_ajput" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
+- ☕️  I'm a Developer.
 
-- 💬 Ask me about **react, Javascript**
+- 💬 Ask me about **react, Javascript, NextJS, Typescript**
 
 - 📫 How to reach me **tusharo17rajput@gmail.com**
 
-- ⚡ Fun fact **I write wrong spil-inks(PUN)✍️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
