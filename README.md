@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/rr_ajput" target="blank"><img src="https://img.shields.io/twitter/follow/rr_ajput?logo=twitter&style=for-the-badge" alt="rr_ajput" /></a> </p>
 
-- ☕️  I'm currently learning to work with AI and web3 technologies.
+- ☕️  I'm working with AI technologies to apply my learnings at an increased pace.
 
-- 💬 Ask me about **react, Javascript, NextJS, Typescript**
+- 💬 Ask me about **react, node, Javascript, NextJS, Typescript**
 
 - 📫 How to reach me **tusharo17rajput@gmail.com**
 
