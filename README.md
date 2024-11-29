@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
-<h3 align="center">Software Enginner</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/rr_ajput" target="blank"><img src="https://img.shields.io/twitter/follow/rr_ajput?logo=twitter&style=for-the-badge" alt="rr_ajput" /></a> </p>
 
